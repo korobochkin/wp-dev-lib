@@ -14,4 +14,4 @@ lint_js_files
 lint_xml_files
 run_qunit
 run_phpunit_travisci
-run_codeception
+#run_codeception
